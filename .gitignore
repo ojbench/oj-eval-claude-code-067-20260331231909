@@ -5,3 +5,4 @@ Makefile
 code
 *.o
 *.out
+test_local
